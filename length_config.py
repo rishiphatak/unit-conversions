@@ -12,5 +12,6 @@ graph['ft->in'] = 12
 graph['in->cm'] = 2.54
 graph['m->cm'] = 100
 graph['km->m'] = 1000
+graph['mi->ft'] = 5280
 
 generateConvJson("len_desc.json", graph, "len_conv.json")
