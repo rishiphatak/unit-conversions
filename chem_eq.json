@@ -1,0 +1,12 @@
+{
+    "Equations":[
+        {
+            "Name":"Ideal Gas Law",
+            "Formula":"$$P V = n R T$$"
+        },
+        {
+            "Name":"Specific Heat",
+            "Formula":"$$q = m c \\Delta T$$"
+        }
+    ]
+}
