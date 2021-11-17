@@ -1,0 +1,9 @@
+{
+    "Constants":[
+        {
+            "Name":"Molar Gas Constant",
+            "Value":"\\[8.3145\\]",
+            "Units":"\\[Jmol^{-1}K^{-1}\\]"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Equations":[
+        {
+            "Name":"Force",
+            "Formula":"$$F = m \\cdot a$$"
+        },
+        {
+            "Name":"Gravity",
+            "Formula":"$$F = G \\frac{m_1 m_2}{r^2}$$"
+        }
+    ]
+}

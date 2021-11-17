@@ -1,0 +1,9 @@
+{
+    "Constants":[
+        {
+            "Name":"Gravitational Constant",
+            "Value":"$$6.022*10^{23}$$",
+            "Units":"$$m^3kg^{-1}s^{-2}$$"
+        }
+    ]
+}
