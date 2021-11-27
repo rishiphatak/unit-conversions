@@ -1,1 +1,115 @@
-{"math": {"British": "maths"}, "mail": {"British": "post"}, "trapezoid": {"British": "trapezium"}, "defense": {"British": "defence"}, "aluminum": {"British": "aluminium"}, "canceled": {"British": "cancelled"}, "fulfill": {"British": "fulfil"}, "aging": {"British": "ageing"}, "center": {"British": "centre"}, "soccer": {"British": "football"}, "millimeter": {"British": "millimetre"}, "kilometer": {"British": "kilometre"}, "centimeter": {"British": "centimetre"}, "meter": {"British": "metre"}, "characterize": {"British": "characterise"}, "civilization": {"British": "civilisation"}, "organize": {"British": "organise"}, "behavior": {"British": "behaviour"}, "rumor": {"British": "rumour"}, "color": {"British": "colour"}, "donut": {"British": "doughnut"}, "yogurt": {"British": "yoghurt"}, "gray": {"British": "grey"}, "buck": {"British": "quid"}}
+{
+    "hello": {
+        "American (Southern)": "howdy",
+        "New Zealand": "kia ora",
+        "South African": "howzit"
+    },
+    "friend": {
+        "Australian": "mate"
+    },
+    "pace": {
+        "Indian": "footfall"
+    },
+    "eggplant": {
+        "Indian": "brinjal"
+    },
+    "reschedule": {
+        "Indian": "prepone"
+    },
+    "revision": {
+        "Indian": "updation"
+    },
+    "recognize": {
+        "Indian": "felicitate"
+    },
+    "lights": {
+        "British": "traffic lights",
+        "South African": "robot"
+    },
+    "jeez": {
+        "South African": "eish"
+    },
+    "eat": {
+        "South African": "chow"
+    },
+    "barbeque": {
+        "British": "barbecue",
+        "South African": "braai"
+    },
+    "sandwich": {
+        "British": "toastie",
+        "South African": "sarmie"
+    },
+    "math": {
+        "British": "maths"
+    },
+    "mail": {
+        "British": "post"
+    },
+    "trapezoid": {
+        "British": "trapezium"
+    },
+    "defense": {
+        "British": "defence"
+    },
+    "aluminum": {
+        "British": "aluminium"
+    },
+    "canceled": {
+        "British": "cancelled"
+    },
+    "fulfill": {
+        "British": "fulfil"
+    },
+    "aging": {
+        "British": "ageing"
+    },
+    "center": {
+        "British": "centre"
+    },
+    "soccer": {
+        "British": "football"
+    },
+    "millimeter": {
+        "British": "millimetre"
+    },
+    "kilometer": {
+        "British": "kilometre"
+    },
+    "centimeter": {
+        "British": "centimetre"
+    },
+    "meter": {
+        "British": "metre"
+    },
+    "characterize": {
+        "British": "characterise"
+    },
+    "civilization": {
+        "British": "civilisation"
+    },
+    "organize": {
+        "British": "organise"
+    },
+    "behavior": {
+        "British": "behaviour"
+    },
+    "rumor": {
+        "British": "rumour"
+    },
+    "color": {
+        "British": "colour"
+    },
+    "donut": {
+        "British": "doughnut"
+    },
+    "yogurt": {
+        "British": "yoghurt"
+    },
+    "gray": {
+        "British": "grey"
+    },
+    "buck": {
+        "British": "quid"
+    }
+}
